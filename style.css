@@ -1,0 +1,43 @@
+.gallery img{
+    width:30%;
+}
+h1{
+    font-family: serif;
+    text-align-last: center;
+    font-size: 6px;
+    color:darkgreen;
+}
+
+h2{
+    font-family: serif;
+    font-size: 6px;
+    font-style: oblique;
+    color:firebrick;
+}
+
+p{
+    font-family: Helvatica,sans-serif;
+}
+
+#menu{
+    width:30%;
+    height:auto;
+    background-color: brown;
+    padding-top: 14px;
+}
+
+#menu a{
+    color:bisque;
+    font-family: Helvatica,sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 400px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+        
+}
+
+#menu a:hover{
+    color:brown;
+}
